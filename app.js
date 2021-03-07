@@ -1,7 +1,3 @@
-/* eslint-env es6 */
-/* eslint-disable no-console */
-/* eslint-disable no-undef */
-
 //intialize the counter value
 let count = 0;
 
@@ -29,7 +25,6 @@ buttons.forEach( function (btns) {
         else if (styles.contains("reset")) {
             count = 0;
         }
-        
         
         if (count < 0) {
             value.style.color = "red";

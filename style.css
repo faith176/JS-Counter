@@ -6,15 +6,11 @@ Fonts
 @import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Roboto");
 
-
-
-
 /*
 ===============
 Variables
 ===============
 */
-
 :root {
     --mainFont: 'Roboto', sans-serif;
     --secondaryFont:'Open Sans', sans-serif;
